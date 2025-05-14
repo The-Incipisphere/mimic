@@ -1,5 +1,5 @@
 ﻿{
-	"angleData": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 225, 0, 0, 0, 0, 0, 0, 0, 0, 0, 225, 180, 180, 180, 180, 180, 180, 180, 225, 3.201651E-06, 0, 0, 0, 0, 0, 0, 0, 315, 180, 315, 0, 0, 0, 0, 0, 0, 0, 999, 270, 180, 180, 180, 180, 180, 180, 180, 180, 180, -45, 0, 0, 0, 0, 0, 0, 0, -45, 180, 180, 180, 180, 180, 180, 180, 180, 225, 0, 225, 180, 180, 180, 180, 180, 180, 180, 999, 270, 0, 0, 0, 0, 0, 0, 0, 0, 0, 225, 180, 180, 180, 180, 180, 180, 180, 225, 3.201651E-06, 0, 0, 0, 0, 0, 0, 0, 315, 180, 315, 0, 0, 0, 0, 0, 0, 0, 999, 270, 180, 180, 180, 180, 180, 180, 180, 180, 180, -45, 0, 0, 0, 0, 0, 0, 0, -45, 180, 180, 180, 180, 180, 180, 180, 180, 225, 0, 225, 180, 180, 180, 180, 180, 180, 180, 999, 270, 0, -135, 315, 180, 3.201651E-06, 315, 180, 180, 180, 180, 999, 270, 180, -45, -180, -45, -180, 3.201651E-06, 315, 180, 180, 315, 225, 0, 270, 0, 225, 315, 180, 3.201651E-06, 315, 180, 180, 180, 180, 999, 270, 180, -45, -180, -45, -180, 3.201651E-06, 315, 180, 180, 315, 225, 0, 270, 0, 225, 315, 180, 3.201651E-06, 315, 180, 180, 180, 180, 999, 270, 180, -45, -180, -45, -180, 3.201651E-06, 315, 180, 180, 315, 225, 0, 270, 0, 225, 315, 180, 3.201651E-06, 315, 180, 180, 180, 180, 999, 270, 180, -45, -180, -45, -180, 3.201651E-06, 315, 180, 180, 315, 225, 0, 270, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 90, 300, 90, 300, 75.00001, 30, -105, 3.201651E-06, 0, 90, 180, 999, 90, 180, 999, 90, 180, 999, 90, 999, 0, 270, 999, 0, 270, 999, 0, 999, 90, 0, 999, 90, 0, 999, 90, 999, 180, 270, 999, 180, 270, 999, 180, 999, 90, 180, 999, 135, 999, 90, 0, 135, 45, 180, 30, 180, 30, 180, 30, 180, 45, 180, 45, 180, 3.201651E-06, 135, 0, -270, 0, 270, 0, -270, -90, 45, 270, 0, 90, 0, 270, 0, 90, 0, 270, 0, 90, 0, -180, 45, 180, 90, 180, 270, 180, -270, -90, 135, 270, 180, 90, 180, 270, 180, 90, 180, 270, 180, 90, 180, 3.201651E-06, 135, 0, -270, 0, 270, 0, -270, -90, 45, 270, 0, 90, 0, 270, 0, 90, 0, 270, 0, 90, 0, -180, 45, 180, 90, 180, 270, 180, -270, -90, 135, 270, 180, 90, 180, 270, 180, 90, 180, 270, 180, 90, 180, 3.201651E-06, 135, 0, -270, 0, 270, 0, -270, -90, 45, 270, 0, 90, 0, 270, 0, 90, 0, 270, 0, 90, 0, -180, 45, 180, 90, 180, 270, 180, -270, -90, 135, 270, 180, 90, 180, 270, 180, 90, 180, 270, 180, 90, 180, 3.201651E-06, 135, 0, -270, 0, 270, 0, -270, -90, 45, 270, 0, 90, 0, 270, 0, 90, 0, 270, 0, 90, 0, -180, 45, 180, 90, 180, 270, 180, -270, -90, 135, 270, 180, 90, 180, 270, 180, 90, 180, 270, 180, 90, 180, 3.201651E-06, 135, 0, -270, 0, 270, 0, -270, -90, 45, 270, 0, 90, 0, 270, 0, 90, 0, 270, 0, 90, 0, -180, 45, 180, 90, 180, 270, 180, -270, -90, 135, 270, 180, 90, 180, 270, 180, 90, 180, 270, 180, 90, 180, 3.201651E-06, 135, 0, -270, 0, 270, 0, -270, -90, 45, 270, 0, 90, 0, 270, 0, 90, 0, 270, 0, 90, 0, -180, 45, 180, 90, 180, 270, 180, -270, -90, 135, 270, 180, 90, 180, 270, 180, 90, 180, 270, 180, 90, 180, 3.201651E-06, 135, 0, -270, 0, 270, 0, -270, -90, 45, 270, 0, 90, 0, 270, 0, 90, 0, 270, 0, 90, 0, -180, 45, 180, 90, 180, 270, 180, -270, -90, 135, 270, 180, 90, 180, 270, 180, 90, 180, 270, 180, 90, 180, 3.201651E-06, 135, 0, -270, 0, 270, 0, -270, -90, 45, 270, 0, 90, 0, 270, 0, 90, 0, 270, 0, 90, 0, -180, 45, 180, 90, 180, 270, 180, -270, -90, 135, 270, 180, 90, 180, 270, 180, 180, 180, 180, 180, 180, 180], 
+	"angleData": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 225, 0, 0, 0, 0, 0, 0, 0, 0, 0, 225, 180, 180, 180, 180, 180, 180, 180, 225, 3.201651E-06, 0, 0, 0, 0, 0, 0, 0, 315, 180, 315, 0, 0, 0, 0, 0, 0, 0, 999, 270, 180, 180, 180, 180, 180, 180, 180, 180, 180, -45, 0, 0, 0, 0, 0, 0, 0, -45, 180, 180, 180, 180, 180, 180, 180, 180, 225, 0, 225, 180, 180, 180, 180, 180, 180, 180, 999, 270, 0, 0, 0, 0, 0, 0, 0, 0, 0, 225, 180, 180, 180, 180, 180, 180, 180, 225, 3.201651E-06, 0, 0, 0, 0, 0, 0, 0, 315, 180, 315, 0, 0, 0, 0, 0, 0, 0, 999, 270, 180, 180, 180, 180, 180, 180, 180, 180, 180, -45, 0, 0, 0, 0, 0, 0, 0, -45, 180, 180, 180, 180, 180, 180, 180, 180, 225, 0, 225, 180, 180, 180, 180, 180, 180, 180, 999, 270, 0, -135, 315, 180, 3.201651E-06, 315, 180, 180, 180, 180, 999, 270, 180, -45, -180, -45, -180, 3.201651E-06, 315, 180, 180, 315, 225, 0, 270, 0, 225, 315, 180, 3.201651E-06, 315, 180, 180, 180, 180, 999, 270, 180, -45, -180, -45, -180, 3.201651E-06, 315, 180, 180, 315, 225, 0, 270, 0, 225, 315, 180, 3.201651E-06, 315, 180, 180, 180, 180, 999, 270, 180, -45, -180, -45, -180, 3.201651E-06, 315, 180, 180, 315, 225, 0, 270, 0, 225, 315, 180, 3.201651E-06, 315, 180, 180, 180, 180, 999, 270, 180, -45, -180, -45, -180, 3.201651E-06, 315, 180, 180, 315, 225, 0, 270, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 90, 300, 90, 300, 75.00001, 30, -105, 3.201651E-06, 0, 90, 180, 999, 90, 180, 999, 90, 180, 999, 90, 999, 0, 270, 999, 0, 270, 999, 0, 999, 90, 0, 999, 90, 0, 999, 90, 999, 180, 270, 999, 180, 270, 999, 180, 999, 90, 180, 999, 135, 999, 90, 0, 135, 45, 180, 30, 180, 30, 180, 30, 180, 45, 180, 45, 180, 3.201651E-06, 135, 0, -270, 0, 270, 0, -270, -90, 45, 270, 0, 90, 0, 270, 0, 90, 0, 270, 0, 90, 0, -180, 45, 180, 90, 180, 270, 180, -270, -90, 135, 270, 180, 90, 180, 270, 180, 90, 180, 270, 180, 90, 180, 3.201651E-06, 135, 0, -270, 0, 270, 0, -270, -90, 45, 270, 0, 90, 0, 270, 0, 90, 0, 270, 0, 90, 0, -180, 45, 180, 90, 180, 270, 180, -270, -90, 135, 270, 180, 90, 180, 270, 180, 90, 180, 270, 180, 90, 180, 3.201651E-06, 135, 0, -270, 0, 270, 0, -270, -90, 45, 270, 0, 90, 0, 270, 0, 90, 0, 270, 0, 90, 0, -180, 45, 180, 90, 180, 270, 180, -270, -90, 135, 270, 180, 90, 180, 270, 180, 90, 180, 270, 180, 90, 180, 3.201651E-06, 135, 0, -270, 0, 270, 0, -270, -90, 45, 270, 0, 90, 0, 270, 0, 90, 0, 270, 0, 90, 0, -180, 45, 180, 90, 180, 270, 180, -270, -90, 135, 270, 180, 90, 180, 270, 180, 90, 180, 270, 180, 90, 180, 3.201651E-06, 135, 0, -270, 0, 270, 0, -270, -90, 45, 270, 0, 90, 0, 270, 0, 90, 0, 270, 0, 90, 0, -180, 45, 180, 90, 180, 270, 180, -270, -90, 135, 270, 180, 90, 180, 270, 180, 90, 180, 270, 180, 90, 180, 3.201651E-06, 135, 0, -270, 0, 270, 0, -270, -90, 45, 270, 0, 90, 0, 270, 0, 90, 0, 270, 0, 90, 0, -180, 45, 180, 90, 180, 270, 180, -270, -90, 135, 270, 180, 90, 180, 270, 180, 90, 180, 270, 180, 90, 180, 3.201651E-06, 135, 0, -270, 0, 270, 0, -270, -90, 45, 270, 0, 90, 0, 270, 0, 90, 0, 270, 0, 90, 0, -180, 45, 180, 90, 180, 270, 180, -270, -90, 135, 270, 180, 90, 180, 270, 180, 90, 180, 270, 180, 90, 180, 3.201651E-06, 135, 0, -270, 0, 270, 0, -270, -90, 45, 270, 0, 90, 0, 270, 0, 90, 0, 270, 0, 90, 0, -180, 45, 180, 90, 180, 270, 180, -270, -90, 135, 270, 180, 90, 180, 270, 180, 180, 180, 180, 180, 180, 90, 0, 270, 180, 270, 0, 270, 180, 180, 90, 0, 270, 180, 180, 90, 0, 270, 180, 180, 180, 180, 180, 90, 0, 270, 180, 180, 90, 0, 270, 180], 
 	"settings":
 	{
 		"version": 15 ,
@@ -25,7 +25,7 @@
 		"bpm": 70, 
 		"volume": 100, 
 		"offset": 0, 
-		"pitch": 100, 
+		"pitch": 50, 
 		"hitsound": "Sizzle", 
 		"hitsoundVolume": 50, 
 		"countdownTicks": 4,
@@ -46,7 +46,7 @@
 		"backgroundColor": "000000", 
 		"showDefaultBGIfNoImage": true, 
 		"showDefaultBGTile": true, 
-		"defaultBGTileColor": "200000ff", 
+		"defaultBGTileColor": "000000ff", 
 		"defaultBGShapeType": "Disabled", 
 		"defaultBGShapeColor": "ffffff", 
 		"bgImage": "", 
@@ -82,13 +82,12 @@
 	},
 	"actions":
 	[
-		{ "floor": 0, "eventType": "SetFilterAdvanced", "filter": "CameraFilterPack_FX_Spot", "enabled": true, "disableOthers": false, "duration": 0, "ease": "Linear", "targetType": "Camera", "plane": "Foreground", "targetTag": "", "filterProperties": "\"filter_center\": [0.5, 0.5], \"filter_Radius\": 20 ", "angleOffset": 0, "eventTag": ""},
 		{ "floor": 0, "eventType": "MoveTrack", "startTile": [170, "ThisTile"], "endTile": [200, "ThisTile"], "gapLength": 0, "duration": 0, "scale": [0, 0], "opacity": 100, "angleOffset": 0, "ease": "Linear", "eventTag": ""},
 		{ "floor": 1, "eventType": "Pause", "duration": 15, "countdownTicks": 3, "angleCorrectionDir": "Forward"},
 		{ "floor": 1, "eventType": "MoveTrack", "startTile": [0, "ThisTile"], "endTile": [0, "ThisTile"], "gapLength": 0, "duration": 15, "positionOffset": [16, null], "angleOffset": 0, "ease": "InOutSine", "eventTag": ""},
 		{ "floor": 1, "eventType": "MoveCamera", "duration": 16, "relativeTo": "Tile", "position": [16, null], "angleOffset": 0, "ease": "InOutSine", "eventTag": ""},
 		{ "floor": 2, "eventType": "PositionTrack", "positionOffset": [16, 0], "relativeTo": [0, "ThisTile"], "justThisTile": false, "editorOnly": false},
-		{ "floor": 2, "eventType": "MoveCamera", "duration": 0, "relativeTo": "Player", "position": [0, 0], "angleOffset": 0, "ease": "Linear", "eventTag": ""},
+		{ "floor": 2, "eventType": "MoveCamera", "duration": 0, "relativeTo": "Player", "position": [1, 0], "angleOffset": 0, "ease": "Linear", "eventTag": ""},
 		{ "floor": 22, "eventType": "Flash", "active": false, "duration": 4, "plane": "Background", "startColor": "ff0000ff", "startOpacity": 100, "endColor": "ff0000ff", "endOpacity": 0, "angleOffset": 0, "ease": "Linear", "eventTag": ""},
 		{ "floor": 26, "eventType": "Twirl" },
 		{ "floor": 34, "eventType": "Twirl" },
@@ -123,7 +122,7 @@
 		{ "floor": 171, "eventType": "Twirl" },
 		{ "floor": 172, "eventType": "Twirl" },
 		{ "floor": 172, "eventType": "Flash", "duration": 8, "plane": "Background", "startColor": "ff0000ff", "startOpacity": 100, "endColor": "800000ff", "endOpacity": 0, "angleOffset": 0, "ease": "Linear", "eventTag": ""},
-		{ "floor": 172, "eventType": "SetFilterAdvanced", "filter": "CameraFilterPack_FX_Spot", "enabled": false, "disableOthers": false, "duration": 0, "ease": "Linear", "targetType": "Camera", "plane": "Foreground", "targetTag": "", "filterProperties": "\"filter_center\": [0, 0], \"filter_Radius\": 77 ", "angleOffset": 0, "eventTag": ""},
+		{ "floor": 172, "eventType": "CustomBackground", "color": "400000", "bgImage": "", "imageColor": "ffffff", "parallax": [100, 100], "bgDisplayMode": "FitToScreen", "imageSmoothing": true, "lockRot": false, "loopBG": false, "scalingRatio": 100, "angleOffset": 0, "eventTag": ""},
 		{ "floor": 173, "eventType": "MoveTrack", "startTile": [0, "ThisTile"], "endTile": [0, "ThisTile"], "gapLength": 0, "duration": 2, "positionOffset": [null, -1], "angleOffset": 0, "ease": "Linear", "eventTag": ""},
 		{ "floor": 174, "eventType": "PositionTrack", "positionOffset": [0, -1], "relativeTo": [0, "ThisTile"], "justThisTile": false, "editorOnly": false},
 		{ "floor": 182, "eventType": "Twirl" },
@@ -178,7 +177,7 @@
 		{ "floor": 268, "eventType": "Twirl" },
 		{ "floor": 269, "eventType": "Twirl" },
 		{ "floor": 270, "eventType": "SetFilter", "filter": "Neon", "enabled": true, "intensity": 100, "duration": 0, "ease": "Linear", "disableOthers": false, "angleOffset": 0, "eventTag": ""},
-		{ "floor": 270, "eventType": "SetFilterAdvanced", "filter": "CameraFilterPack_FX_Spot", "enabled": true, "disableOthers": false, "duration": 0, "ease": "Linear", "targetType": "Camera", "plane": "Foreground", "targetTag": "", "filterProperties": "\"filter_center\": [0.5, 0.5], \"filter_Radius\": 20 ", "angleOffset": 0, "eventTag": ""},
+		{ "floor": 270, "eventType": "SetFilterAdvanced", "filter": "CameraFilterPack_Blur_BlurHole", "enabled": true, "disableOthers": false, "duration": 0, "ease": "Linear", "targetType": "Camera", "plane": "Foreground", "targetTag": "", "filterProperties": "\"filter_Size\": 508, \"filter__Radius\": 10, \"filter__SpotSize\": 10, \"filter__CenterX\": 50, \"filter__CenterY\": 50, \"filter__AlphaBlur\": 100, \"filter__AlphaBlurInside\": 0 ", "angleOffset": 0, "eventTag": ""},
 		{ "floor": 286, "eventType": "SetSpeed", "speedType": "Multiplier", "beatsPerMinute": 100, "bpmMultiplier": 2, "angleOffset": 0},
 		{ "floor": 286, "eventType": "SetFilterAdvanced", "filter": "CameraFilterPack_Distortion_Dream2", "enabled": true, "disableOthers": false, "duration": 4, "ease": "OutCirc", "targetType": "Camera", "plane": "Foreground", "targetTag": "", "filterProperties": "\"filter_Distortion\": 100, \"filter_Speed\": 500 ", "angleOffset": 0, "eventTag": ""},
 		{ "floor": 286, "eventType": "SetFilterAdvanced", "filter": "CameraFilterPack_FX_Hypno", "enabled": true, "disableOthers": false, "duration": 4, "ease": "OutCirc", "targetType": "Camera", "plane": "Background", "targetTag": "", "filterProperties": "\"filter_Blue\": 0, \"filter_Green\": 0, \"filter_Speed\": 100, \"filter_Red\": 200 ", "angleOffset": 0, "eventTag": ""},
@@ -193,7 +192,9 @@
 		{ "floor": 323, "eventType": "Pause", "duration": 15.25, "countdownTicks": 3, "angleCorrectionDir": "Backward"},
 		{ "floor": 323, "eventType": "SetFilterAdvanced", "filter": "CameraFilterPack_Distortion_Dream2", "enabled": false, "disableOthers": false, "duration": 0, "ease": "Linear", "targetType": "Camera", "plane": "Foreground", "targetTag": "", "filterProperties": "\"filter_Speed\": 500, \"filter_Distortion\": 100 ", "angleOffset": 0, "eventTag": ""},
 		{ "floor": 323, "eventType": "SetFilter", "filter": "Neon", "enabled": false, "intensity": 100, "duration": 0, "ease": "Linear", "disableOthers": false, "angleOffset": 0, "eventTag": ""},
-		{ "floor": 323, "eventType": "SetFilterAdvanced", "filter": "CameraFilterPack_FX_Spot", "enabled": true, "disableOthers": false, "duration": 0, "ease": "Linear", "targetType": "Camera", "plane": "Foreground", "targetTag": "", "filterProperties": "\"filter_center\": [0.5, 0.6], \"filter_Radius\": 20 ", "angleOffset": 0, "eventTag": ""},
+		{ "floor": 323, "eventType": "SetFilterAdvanced", "filter": "CameraFilterPack_FX_Spot", "enabled": true, "disableOthers": false, "duration": 0, "ease": "Linear", "targetType": "Camera", "plane": "Foreground", "targetTag": "", "filterProperties": "\"filter_center\": [0.5, 0.5], \"filter_Radius\": 25 ", "angleOffset": 0, "eventTag": ""},
+		{ "floor": 323, "eventType": "Flash", "duration": 1, "plane": "Foreground", "startColor": "ffffff", "startOpacity": 100, "endColor": "ffffff", "endOpacity": 0, "angleOffset": 0, "ease": "Linear", "eventTag": ""},
+		{ "floor": 323, "eventType": "SetFilterAdvanced", "filter": "CameraFilterPack_Blur_BlurHole", "enabled": true, "disableOthers": false, "duration": 0, "ease": "Linear", "targetType": "Camera", "plane": "Foreground", "targetTag": "", "filterProperties": "\"filter__SpotSize\": 250, \"filter_Size\": 1000, \"filter__Radius\": 10, \"filter__CenterX\": 50, \"filter__CenterY\": 50, \"filter__AlphaBlur\": 100, \"filter__AlphaBlurInside\": 0 ", "angleOffset": 0, "eventTag": ""},
 		{ "floor": 336, "eventType": "Twirl" },
 		{ "floor": 352, "eventType": "Twirl" },
 		{ "floor": 365, "eventType": "Twirl" },
@@ -217,6 +218,8 @@
 		{ "floor": 379, "eventType": "RecolorTrack", "startTile": [0, "Start"], "endTile": [0, "End"], "gapLength": 0, "duration": 0, "trackColorType": "Single", "trackColor": "ff0000ff", "secondaryTrackColor": "ffffff", "trackColorAnimDuration": 2, "trackColorPulse": "None", "trackPulseLength": 10, "trackStyle": "Neon", "trackGlowIntensity": 100, "angleOffset": 0, "ease": "Linear", "eventTag": ""},
 		{ "floor": 379, "eventType": "MoveCamera", "active": false, "duration": 0, "relativeTo": "Tile", "position": [5, 0], "zoom": 150, "angleOffset": 0, "ease": "Linear", "eventTag": ""},
 		{ "floor": 379, "eventType": "MoveCamera", "active": false, "duration": 256, "relativeTo": "Tile", "position": [null, 40], "angleOffset": 0, "ease": "Linear", "eventTag": ""},
+		{ "floor": 379, "eventType": "SetFilterAdvanced", "filter": "CameraFilterPack_Blur_BlurHole", "enabled": false, "disableOthers": false, "duration": 0, "ease": "Linear", "targetType": "Camera", "plane": "Foreground", "targetTag": "", "filterProperties": "\"filter__AlphaBlurInside\": 0, \"filter__AlphaBlur\": 100, \"filter__CenterY\": 50, \"filter__CenterX\": 50, \"filter__SpotSize\": 100, \"filter__Radius\": 25, \"filter_Size\": 1000 ", "angleOffset": 0, "eventTag": ""},
+		{ "floor": 379, "eventType": "MoveCamera", "duration": 1, "relativeTo": "Player", "position": [0, 0], "angleOffset": 0, "ease": "Linear", "dontDisable": false, "minVfxOnly": false, "eventTag": ""},
 		{ "floor": 380, "eventType": "PositionTrack", "positionOffset": [0, 1], "relativeTo": [0, "ThisTile"], "justThisTile": false, "editorOnly": false},
 		{ "floor": 381, "eventType": "Twirl" },
 		{ "floor": 382, "eventType": "Twirl" },
@@ -359,7 +362,7 @@
 		{ "floor": 552, "eventType": "Twirl" },
 		{ "floor": 554, "eventType": "Twirl" },
 		{ "floor": 555, "eventType": "MoveTrack", "startTile": [0, "ThisTile"], "endTile": [0, "ThisTile"], "gapLength": 0, "duration": 2, "positionOffset": [null, 1], "angleOffset": 0, "ease": "OutCirc", "eventTag": ""},
-		{ "floor": 555, "eventType": "SetFilter", "filter": "Posterize", "enabled": true, "intensity": 100, "duration": 0, "ease": "Linear", "disableOthers": false, "angleOffset": 0, "eventTag": ""},
+		{ "floor": 555, "eventType": "SetFilterAdvanced", "active": false, "filter": "CameraFilterPack_Vision_Drost", "enabled": true, "disableOthers": false, "duration": 4, "ease": "Linear", "targetType": "Camera", "plane": "Foreground", "targetTag": "", "filterProperties": "\"filter_Intensity\": 40, \"filter_Speed\": 100 ", "angleOffset": 0, "eventTag": ""},
 		{ "floor": 556, "eventType": "PositionTrack", "positionOffset": [0, 1], "relativeTo": [0, "ThisTile"], "justThisTile": false, "editorOnly": false},
 		{ "floor": 557, "eventType": "Twirl" },
 		{ "floor": 558, "eventType": "Twirl" },
@@ -498,7 +501,9 @@
 		{ "floor": 719, "eventType": "Twirl" },
 		{ "floor": 720, "eventType": "Twirl" },
 		{ "floor": 722, "eventType": "Twirl" },
-		{ "floor": 724, "eventType": "Twirl" }
+		{ "floor": 724, "eventType": "Twirl" },
+		{ "floor": 735, "eventType": "Twirl" },
+		{ "floor": 736, "eventType": "PositionTrack", "positionOffset": [0, -1], "relativeTo": [0, "ThisTile"], "justThisTile": false, "editorOnly": true}
 	],
 	"decorations":
 	[
@@ -506,9 +511,9 @@
 		{ "floor": 323, "eventType": "AddText", "decText": "1.25x", "tag": "", "font": "Default", "position": [0, 0], "relativeTo": "Tile", "pivotOffset": [0, -1], "rotation": 0, "lockRotation": false, "scale": [50, 50], "lockScale": false, "color": "ffffff", "opacity": 100, "depth": -1, "parallax": [0, 0], "parallaxOffset": [0, 0] },
 		{ "floor": 286, "eventType": "AddText", "decText": "2x", "tag": "", "font": "Default", "position": [0, 0], "relativeTo": "Tile", "pivotOffset": [0, -0.75], "rotation": 0, "lockRotation": false, "scale": [100, 100], "lockScale": false, "color": "ffffff", "opacity": 100, "depth": -1, "parallax": [0, 0], "parallaxOffset": [0, 0] },
 		{ "floor": 323, "eventType": "AddText", "decText": "Rest for 15.25 beats", "tag": "", "font": "Default", "position": [0, 0], "relativeTo": "Tile", "pivotOffset": [0, -1.5], "rotation": 0, "lockRotation": false, "scale": [50, 50], "lockScale": false, "color": "ffffff", "opacity": 100, "depth": -1, "parallax": [0, 0], "parallaxOffset": [0, 0] },
-		{ "floor": 732, "eventType": "AddText", "decText": "", "tag": "mainLyric1", "font": "Default", "position": [0, 0], "relativeTo": "Camera", "pivotOffset": [0, 3], "rotation": 0, "lockRotation": false, "scale": [50, 50], "lockScale": true, "color": "ffffffff", "opacity": 100, "depth": -10, "parallax": [0, 0], "parallaxOffset": [0, 0] },
-		{ "floor": 732, "eventType": "AddText", "decText": "", "tag": "mainLyric2", "font": "Default", "position": [0, 0], "relativeTo": "Camera", "pivotOffset": [0, 2.5], "rotation": 0, "lockRotation": false, "scale": [50, 50], "lockScale": true, "color": "ffffffff", "opacity": 100, "depth": -10, "parallax": [0, 0], "parallaxOffset": [0, 0] },
-		{ "floor": 732, "eventType": "AddText", "decText": "", "tag": "mainLyric3", "font": "Default", "position": [0, 0], "relativeTo": "Camera", "pivotOffset": [0, 2], "rotation": 0, "lockRotation": false, "scale": [50, 50], "lockScale": true, "color": "ffffffff", "opacity": 100, "depth": -10, "parallax": [0, 0], "parallaxOffset": [0, 0] },
-		{ "floor": 732, "eventType": "AddText", "decText": "", "tag": "subLyric", "font": "Impact", "position": [0, 0], "relativeTo": "Camera", "pivotOffset": [0, 0], "rotation": 0, "lockRotation": false, "scale": [100, 100], "lockScale": true, "color": "ff0000ff", "opacity": 40, "depth": -10, "parallax": [0, 0], "parallaxOffset": [0, 0] }
+		{ "floor": 762, "eventType": "AddText", "decText": "", "tag": "mainLyric1", "font": "Default", "position": [0, 0], "relativeTo": "Camera", "pivotOffset": [0, 3], "rotation": 0, "lockRotation": false, "scale": [50, 50], "lockScale": true, "color": "ffffffff", "opacity": 100, "depth": -10, "parallax": [0, 0], "parallaxOffset": [0, 0] },
+		{ "floor": 762, "eventType": "AddText", "decText": "", "tag": "mainLyric2", "font": "Default", "position": [0, 0], "relativeTo": "Camera", "pivotOffset": [0, 2.5], "rotation": 0, "lockRotation": false, "scale": [50, 50], "lockScale": true, "color": "ffffffff", "opacity": 100, "depth": -10, "parallax": [0, 0], "parallaxOffset": [0, 0] },
+		{ "floor": 762, "eventType": "AddText", "decText": "", "tag": "mainLyric3", "font": "Default", "position": [0, 0], "relativeTo": "Camera", "pivotOffset": [0, 2], "rotation": 0, "lockRotation": false, "scale": [50, 50], "lockScale": true, "color": "ffffffff", "opacity": 100, "depth": -10, "parallax": [0, 0], "parallaxOffset": [0, 0] },
+		{ "floor": 762, "eventType": "AddText", "decText": "", "tag": "subLyric", "font": "Impact", "position": [0, 0], "relativeTo": "Camera", "pivotOffset": [0, 0], "rotation": 0, "lockRotation": false, "scale": [100, 100], "lockScale": true, "color": "ff0000ff", "opacity": 40, "depth": -10, "parallax": [0, 0], "parallaxOffset": [0, 0] }
 	]
 }
